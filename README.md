@@ -1,6 +1,6 @@
 - 👋 Hi, I’m RayLiu
 - 👀 I’m interested in programming, guitar, game
-- 🌱 I’m currently learning Web-Back-end
+- 🌱 I’m currently learning Back-end
 
 <!---
 RayLiu1999/RayLiu1999 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
