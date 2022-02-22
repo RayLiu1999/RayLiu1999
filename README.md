@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RayLiu1999
+- 👋 Hi, I’m RayLiu
 - 👀 I’m interested in programming, guitar, game
 - 🌱 I’m currently learning PHP, Laravel
 
