@@ -20,13 +20,6 @@
 
 ---
 
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RayLiu1999&theme=onedark&no-frame=true&no-bg=false&margin-w=4" alt="RayLiu1999" />
-</p>
-
----
-
 ### 🛠️ Languages and Tools
 
 **Programming Languages:**
@@ -69,10 +62,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RayLiu1999&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="RayLiu1999" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RayLiu1999&layout=compact&theme=tokyonight" alt="RayLiu1999" />
 </div>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=RayLiu1999&theme=tokyonight" alt="GitHub Streak Stats" />
-</p>
 
 ---
 
