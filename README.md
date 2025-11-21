@@ -10,7 +10,7 @@
 
 - 🌱 I'm currently learning **Kubernetes, Microservices Architecture, gRPC**
 
-- 💬 Ask me about **Go, PHP, WebSocket, MongoDB, Docker, System Architecture**
+- 💬 Ask me about **Go, PHP, Node.js, MySQL, Docker, System Architecture**
 
 - 📫 How to reach me **rayliu219@gmail.com**
 
@@ -28,7 +28,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/> -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 </p>
 
 **Frontend & Frameworks:**
