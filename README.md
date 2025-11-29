@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I’m Ray 👋</h1>
+<h1 align="center">Hi, I’m Ray Liu 👋</h1>
 <h3 align="center">Solve the right problems, build the right solutions, improve every day.</h3>
 
 <div align="center">
